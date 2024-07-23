@@ -18,6 +18,18 @@ O objetivo deste projeto é ilustrar como o padrão Composite permite:
 ## 📂 Estrutura do Projeto
 
 ```bash
+  |____README.md
+  |____.gitignore
+  |____cmd
+  | |____main.go
+  |____go.mod
+  |____internal
+  | |____service
+  | | |____catalogo.go
+  | |____domain
+  | | |____item_catalogo.go
+  | | |____categoria.go
+  | | |____produto.go
 ```
 
 ## 💡 Conceitos-chave
